@@ -22,7 +22,7 @@ const links = [
   { name: "View Bike Parts", href: "/admin/view-bike-parts", icon: EyeIcon },
   {
     name: "View Registered Service",
-    href: "/admin/view-registered-service",
+    href: "/admin/view-registered-services",
     icon: EyeIcon,
   },
   {
